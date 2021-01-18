@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Video Walkthrough
+
+<img src= 'walkthrough.gif' title='Video Walkthrough' width= '' alt='Video Walkthrough'/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
